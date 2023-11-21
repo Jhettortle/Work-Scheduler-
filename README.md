@@ -7,4 +7,4 @@ This is a workday scheduler that allows users to write and save events that are 
 The ueser can enter in corresponding text and then click the save button so that it remains saved even upon website refresh
 
 ## Website
-<a href="">Workday Scheduler</a>
+<a href="https://jhettortle.github.io/Work-Scheduler-/">Workday Scheduler</a>
